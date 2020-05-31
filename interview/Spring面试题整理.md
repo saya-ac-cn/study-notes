@@ -31,7 +31,7 @@ Spring是一个轻量级IoC和AOP框架，是为Java应用程序提供基础性�
 
 #### 5、Spring Framework 中有多少个模块，它们分别是什么？
 
-![spring框架](../resource/picture/spring组成部分.png)
+![spring框架](https://github.com/saya-ac-cn/study-notes/blob/master/resource/picture/spring组成部分.png)
 
 Spring 核心容器 – 该层基本上是 Spring Framework 的核心。它包含以下模块：
 
